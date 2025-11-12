@@ -19,7 +19,7 @@ I have organized the repository into folders corresponding to each day's topic.
 
 ### ➡️ [Day 2: Agent Tools & Interoperability with MCP](./Day2_Tools_and_Interoperability/)
 * **Topic:** Understanding how AI agents can "take action" by leveraging external functionalities and APIs, and exploring the Model Context Protocol (MCP).
-* **Status:** In Progress.
+* **Status:** Completed. Notes and codelabs are in the folder.
 
 ### ➡️ [Day 3: Context Engineering: Sessions & Memory](./Day3_Context_Engineering/)
 * **Topic:** Building AI agents that can remember past interactions and maintain context using short-term and long-term memory.
