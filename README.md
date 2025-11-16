@@ -23,7 +23,7 @@ I have organized the repository into folders corresponding to each day's topic.
 
 ### ➡️ [Day 3: Context Engineering: Sessions & Memory](./Day3_Context_Engineering/)
 * **Topic:** Building AI agents that can remember past interactions and maintain context using short-term and long-term memory.
-* **Status:** Not Started.
+* **Status:** Completed. Notes and codelabs are in the folder.
 
 ### ➡️ [Day 4: Agent Quality](./Day4_Agent_Quality/)
 * **Topic:** Mastering the critical disciplines of evaluating and improving agents, including observability, logging, tracing, and key performance metrics.
